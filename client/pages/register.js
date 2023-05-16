@@ -63,7 +63,7 @@ const Register=()=>{
                   onChange={(e)=>{
                     setPassword(e.target.value)
                   }}
-                  placeholder="Enter Your password"
+                  placeholder="Please Enter Password"
                   required
               />
               
